@@ -1,2 +1,2 @@
-# firts_repository
-it is my first repository on github
+# first_repository
+It is my first repository on github
